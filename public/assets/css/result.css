@@ -1,0 +1,12 @@
+.container {
+    background-color: #aaa;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.display-box {
+    background-color: beige;
+    width: 35%;
+}
